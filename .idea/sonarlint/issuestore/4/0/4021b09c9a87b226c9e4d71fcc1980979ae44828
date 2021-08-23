@@ -1,0 +1,8 @@
+
+<	java:S131""Add a default case to this switch.(Å¸ø´øÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "fileName".(þœøïøÿÿÿÿ
+H
+java:S1481"-Remove this unused "fileName" local variable.(þœøïøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºþ£Þ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸¨üÍ

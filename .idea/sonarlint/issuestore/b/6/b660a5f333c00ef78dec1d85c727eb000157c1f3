@@ -1,0 +1,27 @@
+
+\
+java:S1854"ARemove this useless assignment to local variable "fileExtension".(—ªÓÿÿÿÿÿ
+M
+java:S1481"2Remove this unused "fileExtension" local variable.(—ªÓÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôØáÆıÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(…ËÉ¯ıÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(†Ğ¥Å
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(˜³ÉÓ
+i
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(˜«ªg
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ªº»Úıÿÿÿÿ
+j
+java:S1128	"TRemove this unnecessary import: same package classes are always implicitly imported.(ªËŞˆ
+o
+java:S1128
+"TRemove this unnecessary import: same package classes are always implicitly imported.(ñìÁ„üÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ä÷àÿÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Õë±Äøÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¬µ²

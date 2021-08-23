@@ -1,0 +1,11 @@
+04-09-2018 07:03:58 INFO  Logging:27 - Приложение запущено
+04-09-2018 07:03:58 INFO  timing:127 - INVOKE: start ext.by.peleng.serverside.ServerSide.getWTDocFile [2rwdun;jlnmyopi;8048;wsnmw7;1]
+04-09-2018 07:03:59 WARN  IncompatibleCodebaseWarning:65 - ПРЕДУПРЕЖДЕНИЕ. Версия локального базового кода - "", а версия серверного базового кода - "Windchill". Возможно, локально установлены файлы, которые более не совместимы с файлами на сервере.
+04-09-2018 07:04:06 INFO  timing:127 - INVOKE: start wt.auth.Authentication.init [2rwdun;jlnmyopi;8048;wsnmw7;2]
+04-09-2018 07:04:06 INFO  timing:127 - INVOKE: end wt.auth.Authentication.init [2rwdun;jlnmyopi;8048;wsnmw7;2], 18.522806 ms
+04-09-2018 07:04:06 INFO  timing:127 - INVOKE: end ext.by.peleng.serverside.ServerSide.getWTDocFile [2rwdun;jlnmyopi;8048;wsnmw7;1], 8011.269369 ms
+04-09-2018 07:04:33 INFO  Logging:27 - Приложение запущено
+04-09-2018 07:04:34 INFO  timing:127 - INVOKE: start ext.by.peleng.serverside.ServerSide.getWTDocFile [2rwdun;jlnmzfw4;7092;2snzwx;1]
+04-09-2018 07:04:34 WARN  IncompatibleCodebaseWarning:65 - ПРЕДУПРЕЖДЕНИЕ. Версия локального базового кода - "", а версия серверного базового кода - "Windchill". Возможно, локально установлены файлы, которые более не совместимы с файлами на сервере.
+04-09-2018 07:04:43 INFO  timing:127 - INVOKE: end ext.by.peleng.serverside.ServerSide.getWTDocFile [2rwdun;jlnmzfw4;7092;2snzwx;1], 9550.274036 ms
+04-09-2018 07:04:46 INFO  Logging:36 - Выполнение приложения завершено.
